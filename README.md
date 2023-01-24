@@ -1,2 +1,2 @@
-# Ki-iselWebSitem
+# KişiselWebSitem
 SemantikYapı
